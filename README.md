@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+# Learning with cam
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This site is about your photography [Learn With Cam](https://nostalgic-feynman-04ae5d.netlify.app/).
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+### `What is Photography`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Photography is the art, application, and practice of creating durable images by recording light, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film. It is employed in many fields of science, manufacturing , and business, as well as its more direct uses for art, film and video production, recreational purposes, hobby, and mass communication
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### `What we provide you`
+Light and Shadow
+Light is obviously the most important element in any photograph because of the basic fact that photography itself is about recording light. As a beginner, I often used to wonder why my sharp image isn’t as eye-catching as I supposed it should be.
+Backlit Scenes
+The source of illumination (the Sun) was behind me in all of the above images. Does that mean shooting against the sun always yields bad images? The answer is NO. Backlit images bring out a different mood.
+Color and Tonality
+Color is another predominant entity that sets the mood of a photograph. Warm colors like red, orange, and yellow can bring about a happy emotion whereas tones of blue bring about a cold or gloomy feel. In most cases, colors act as a defining factor of the picture itself.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### `Believe in us`
 
-### `npm run build`
+We are a reputed photography Learning center.We give our services since 1998.So you can join us with trust and become a good photographer.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

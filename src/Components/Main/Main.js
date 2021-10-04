@@ -7,14 +7,14 @@ const Main = () => {
   const [news,setNews] = useState([])
   console.log(news);
     useEffect(()=>{
-        fetch('./data.JSON')
+        fetch('./four.JSON')
         .then(res=>res.json())
         .then(data =>setNews(data))
     },[])
     return (
         
         <div className="services">
-            
+
              <Row xs={1} md={2} className="g-4">
               {
                   news?.map(first => <Firstpart
