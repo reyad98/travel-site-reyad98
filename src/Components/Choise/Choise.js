@@ -1,8 +1,10 @@
 import React from 'react';
 import { Card, Col } from 'react-bootstrap';
+import useFirebase from '../../hooks/usefirebase';
 import './Choise.css'
 
 const Choise = (props) => {
+
     return (
         
         <div>
@@ -16,7 +18,7 @@ const Choise = (props) => {
                            Description: {props.frist.duration}
                         </Card.Title>
                        
-                        <button className="buttn">Details!</button>
+                        <button  className="buttn">Details!</button>
                     </Card.Body>
                 </Card>
             </Col>

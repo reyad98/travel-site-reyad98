@@ -33,12 +33,16 @@ function App() {
             <Route path="/login">
               <Login></Login>
             </Route>
+            <PrivateRoute path="/service">
+              <Services></Services>
+            </PrivateRoute>
+
             <Route path="/register">
               <Register></Register>
             </Route>
-            <PrivateRoute path="/about">
+            <Route path="/about">
               <About></About>
-            </PrivateRoute>
+            </Route>
             <Route path="/discover">
               <Discover></Discover>
             </Route>
@@ -53,5 +57,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
