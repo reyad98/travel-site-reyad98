@@ -4,20 +4,27 @@ This site is about your photography [Learn With Cam](https://nostalgic-feynman-0
 
 
 
-### `What is Photography`
+### `Defination`
 
-Photography is the art, application, and practice of creating durable images by recording light, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film. It is employed in many fields of science, manufacturing , and business, as well as its more direct uses for art, film and video production, recreational purposes, hobby, and mass communication
-
-### `What we provide you`
-Light and Shadow
-Light is obviously the most important element in any photograph because of the basic fact that photography itself is about recording light. As a beginner, I often used to wonder why my sharp image isn’t as eye-catching as I supposed it should be.
-Backlit Scenes
-The source of illumination (the Sun) was behind me in all of the above images. Does that mean shooting against the sun always yields bad images? The answer is NO. Backlit images bring out a different mood.
-Color and Tonality
-Color is another predominant entity that sets the mood of a photograph. Warm colors like red, orange, and yellow can bring about a happy emotion whereas tones of blue bring about a cold or gloomy feel. In most cases, colors act as a defining factor of the picture itself.
+Hospital services is a term that refers to medical and surgical services and the supporting laboratories, equipment and personnel that make up the medical and surgical mission of a hospital or hospital system.
 
 
-### `Believe in us`
 
-We are a reputed photography Learning center.We give our services since 1998.So you can join us with trust and become a good photographer.
+### `Purpose`
+Hospital services make up the core of a hospital's offerings. They are often shaped by the needs or wishes of its major users to make the hospital a one-stop or core institution of its local commun ity or medical network. Hospitals are institutions comprising basic services and personnel—usually departments of medicine and surgery—that administer clinical and other services for specific diseases and conditions, as well as emergency services. Hospital services cover a range of medical offerings from basic health care necessities or training and research for major medical school centers to services designed by an industry-owned network of such institutions as health maintenance organizations (HMOs). The mix of services that a hospital may offer depends almost entirely upon its basic mission(s) or objective(s).
+
+### `Demographics`
+
+The total number of hospitals in the United States, including military and prison hospitals, is over 6,500. Of this total, approximately 3,000 are non-government-related nonprofit hospitals; almost 800 are investor-owned; and 1,156 are government (state, county, or local) hospitals.
+
+### `Description`
+Over the past two decades, hospital services in the United States have declined markedly as a percentage of health care costs, from 43.5% in 1980 to 32.8% in 2000. This decline was due to shortened lengths of hospital stay, the move from inpatient to outpatient facilities for surgery, and a wave of hospital mergers in the 1990s that consolidated services and staff. Since 2001, however, spending on hospital care in the United States has been growing faster than other sectors of the economy as a result of increasing demand for hospital services.
+
+### `Preparation`
+
+Most hospitals have extensive surgical services that include preoperative testing, which may include x-rays, CT scans , ultrasonography, blood tests, urinalysis , and/or an EKG. Medication counseling is offered for current patient prescriptions and how they should be taken during and after surgery. Informed consent forms are made available to patients, as well as patient advocate services for questions and assistance in understanding the consent form and similar documents
+
+
+
+
 

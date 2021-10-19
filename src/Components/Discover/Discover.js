@@ -9,12 +9,12 @@ const Discover = () => {
             </div>
             <div className="facebook">
                 <h2>Facebook</h2>
-                <h4>We have a facebook page.We engaged our course buyer in facebook group.They can easily discussion any topic.We have online and offline course.You can buy anyone.</h4>
+                <h4>We have a facebook page.We engaged our patient buyer in facebook group.They can easily discussion any topic.We have online and offline course.</h4>
                 <button className="buttnn">Facebook</button>
             </div>
             <div className="youtube">
                 <h2>Youtube</h2>
-                <h4>We have a Youtube channel.You can subscribe out channel for learn more.We have online and offline course.Here is many video about photography for free.</h4>
+                <h4>We have a Youtube channel.You can subscribe out channel for learn more.We have online and offline call service.</h4>
                 <button className="buttnn">Youtube</button>
             </div>
             <div className="mail">

@@ -9,11 +9,7 @@ const About = () => {
             </div>
             <div className="about">
                 <h5>
-                    You can learn photography by us and its our training center . David is known for his quick turnaround, friendly, yet professional manner and quality imagery.  He has also had plenty of experience working with VIPs,  high profile individuals and brands; able to work with them in a respectful and unobtrusive reportage photography style.
-                    While David focuses on event photography, he works closely with a small selection of trusted videographers, so if your event also needs to be documented through video in addition to photography, this is also something he can manage for your event.
-                    We learning you all of possible photography tips and you will become a good photographer. Well trusted and experienced Corporate Event Photographer, creating engaging documentary imagery for client’s events and conferences . David is known for his quick turnaround, friendly, yet professional manner and quality imagery.  He has also had plenty of experience working with VIPs,  high profile individuals and brands; able to work with them in a respectful and unobtrusive reportage photography style.
-                    While David focuses on event photography, he works closely with a small selection of trusted videographers, so if your event also needs to be documented through video in addition to photography, this is also something he can manage for your event.
-                    We learning you all of possible photography tips and you will become a good photographer.
+                Bangladesh has a large population and a wide healthcare delivery network to cater them. But the infrastructure is inefficient and sometime inadequate. The design and inherent integration of the different tiers of healthcare facilities are also inefficient. Moreover, doctors and healthcare facilities are not fairly distributed throughout the country. Modern and sophisticated services are limited to capital city or mostly 3 or 4 big cities. Ensuring equitable access to all healthcare services is a big challenge. Resources and efforts should be ensured to develop trained manpower and their capacity development. Hospitals face the challenges to provide services to chronically ill patients, geriatric and mental health patients, provide modern state of the art facilities equitably as well as handling overcrowding issues at District and Medical College Hospitals.
                 </h5>
             </div>
         </div>
