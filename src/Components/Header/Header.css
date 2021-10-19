@@ -3,7 +3,7 @@
 }
 
 .header nav {
-    background-color: black;
+    background-color: rgb(57, 108, 250);
     line-height: 60px;
 }
 .header nav a{
@@ -12,6 +12,10 @@
     margin-right: 20px;
     padding: 5px;
     font-size: 18px;
+}
+.logout{
+    color: rgb(228, 228, 235);
+    background-color: rgb(36, 86, 250);
 }
 .header nav a:hover{
     background-color: rgb(222, 227, 236);

@@ -1,4 +1,4 @@
-# Learning with cam
+# Happy Doc Time
 
 This site is about your photography [Learn With Cam](https://nostalgic-feynman-04ae5d.netlify.app/).
 

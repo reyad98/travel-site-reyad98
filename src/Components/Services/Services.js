@@ -16,7 +16,7 @@ const Services = () => {
               {
                   news?.map(first => <Choise
                     frist={first}
-                  ></Choise> )
+                  ></Choise> ) 
               }
              </Row>
         </div>

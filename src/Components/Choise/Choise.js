@@ -11,14 +11,12 @@ const Choise = (props) => {
                 <Card>
                     <Card.Img variant="top" src={props.frist.img} />
                     <Card.Body className="crdcol">
-                        <Card.Title>Name:{props.frist.name}</Card.Title>
+                        <h3>{props.frist.name}</h3>
                         <Card.Title>
-                           Course Duration: {props.frist.duration}
+                           Description: {props.frist.duration}
                         </Card.Title>
-                        <Card.Title>
-                           Course Fee:$ {props.frist.fee}
-                        </Card.Title>
-                        <button className="buttn">Enroll Now!</button>
+                       
+                        <button className="buttn">Details!</button>
                     </Card.Body>
                 </Card>
             </Col>

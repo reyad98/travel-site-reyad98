@@ -1,9 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
-import { ButtonGroup ,Button } from 'react-bootstrap';
+import { ButtonGroup, Button } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './Components/Header/Header';
-import { BrowserRouter as Router,Switch,Route } from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Choise from './Components/Choise/Choise';
 import About from './Components/About/About';
 import Discover from './Components/Discover/Discover';
@@ -13,37 +13,45 @@ import Main from './Components/Main/Main';
 import Services from './Components/Services/Services';
 import Mypart from './Components/Mypart/Mypart';
 import Large from './Components/Large/Large';
+import Login from './Components/Login/Login';
+import Register from './Components/Register/Register';
+import Authprovider from './Context/Authprovider';
+import PrivateRoute from './Components/PrivateRoute/PrivateRoute';
 function App() {
   return (
     <div className="App bgm">
-     <Header></Header>
-     
-     <Router>
-       <Switch>
-         <Route exact path="/">
-           <Large></Large>
-          <Main></Main>
-         
-         </Route>
-         <Route path="/home">
-           <Large></Large>
-        <Main></Main>
-         </Route>
-         <Route path="/services">
-         <Services></Services>
-         </Route>
-         <Route path="/about">
-          <About></About>
-         </Route>
-         <Route path="/discover">
-           <Discover></Discover>
-         </Route>
-         <Route path="*">
-          <Notfound></Notfound>
-         </Route>
-       </Switch>
-     </Router>
-     <Footer></Footer>
+      <Header></Header>
+
+      <Authprovider>
+        <Router>
+          <Switch>
+            <Route exact path="/">
+              <Large></Large>
+            </Route>
+            <Route path="/home">
+              <Large></Large>
+              <Services></Services>
+            </Route>
+            <Route path="/login">
+              <Login></Login>
+            </Route>
+            <Route path="/register">
+              <Register></Register>
+            </Route>
+            <PrivateRoute path="/about">
+              <About></About>
+            </PrivateRoute>
+            <Route path="/discover">
+              <Discover></Discover>
+            </Route>
+            <Route path="*">
+              <Notfound></Notfound>
+            </Route>
+          </Switch>
+        </Router>
+      </Authprovider>
+
+      <Footer></Footer>
     </div>
   );
 }
