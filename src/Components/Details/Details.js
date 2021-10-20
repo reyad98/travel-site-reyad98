@@ -1,27 +1,30 @@
+
+
 import React, { useEffect, useState } from 'react';
 import { Row } from 'react-bootstrap';
-import Choise from '../Choise/Choise';
-import './Services.css'
+import Showdetails from '../ShowDetails/Showdetails';
 
-const Services = () => {
+const Details = () => {
     const [news,setNews] = useState([])
   console.log(news);
     useEffect(()=>{
-        fetch('./data.JSON')
+        fetch('./Details.json')
         .then(res=>res.json())
         .then(data =>setNews(data))
     },[])
     return (
         <div className="services">
-             <Row xs={1} md={3} className="g-4">
+             <Row xs={1} md={1} className="g-4">
               {
-                  news?.map(first => <Choise
+                 
+                news?.map(first =><Showdetails
                     frist={first}
-                  ></Choise> ) 
+                ></Showdetails> )
               }
              </Row>
         </div>
     );
+
 };
 
-export default Services;
+export default Details;

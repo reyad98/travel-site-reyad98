@@ -18,6 +18,6 @@ const PrivateRoute = ({ children, ...rest }) => {
 
         </Route>
     );
-};
+};   
 
 export default PrivateRoute;

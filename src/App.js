@@ -15,6 +15,7 @@ import Login from './Components/Login/Login';
 import Register from './Components/Register/Register';
 import Authprovider from './Context/Authprovider';
 import PrivateRoute from './Components/PrivateRoute/PrivateRoute';
+import Details from './Components/Details/Details';
 function App() {
   return (
     <div className="App bgm">
@@ -30,12 +31,18 @@ function App() {
               <Large></Large>
               <Services></Services>
             </Route>
+
+            <PrivateRoute  path="/details">
+            <Details></Details>
+            </PrivateRoute>
+
+            {/* <PrivateRoute path="/singledetails" >
+              <Services></Services>
+            </PrivateRoute>
+       */}
             <Route path="/login">
               <Login></Login>
             </Route>
-            <PrivateRoute path="/service">
-              <Services></Services>
-            </PrivateRoute>
 
             <Route path="/register">
               <Register></Register>

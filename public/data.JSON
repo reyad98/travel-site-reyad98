@@ -11,22 +11,22 @@
     },
     {
         "name": "Special ICU",
-        "duration": "For imergency case we have 40 icu bed.For Covid patient",
+        "duration": "For imergency case we have 40 icu bed.For Covid patient imergency",
         "img": "https://media.istockphoto.com/photos/blurred-image-of-a-man-patient-sleeping-in-hospital-bed-picture-id1030345288?k=20&m=1030345288&s=612x612&w=0&h=ik1TRo3Evcliuvpe1vn_8kBnxWwf0NWrvXbEOvc4iH0="
     },
     {
-        "name": "High Care",
+        "name": "Health Care",
         "duration": "Some special patient need high level care.We provide them in a good price",
         "img": "https://media.istockphoto.com/photos/elderly-woman-sick-in-hospital-with-her-daughter-picture-id1262973066?k=20&m=1262973066&s=612x612&w=0&h=cgPLj429fVPr9m7uZcuCTQW6e0S5Nm45irluHtogLWQ="
     },
     {
         "name": "Digital Lab",
-        "duration": "We have digital lab facalities for your care. Visit here",
+        "duration": "We have digital lab facalities for your care. Visit here for more",
         "img": "https://images.unsplash.com/photo-1551884170-09fb70a3a2ed?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGhvc3BpdGFsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60"
     },
     {
         "name": "Operation Theater",
-        "duration": "We have high pasonate operation theater.Our sepecial doctor.",
+        "duration": "We have high pasonate operation theater. Visit Our sepecial doctor.",
         "img": "https://images.unsplash.com/photo-1504439468489-c8920d796a29?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGhvc3BpdGFsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60"
     }
     

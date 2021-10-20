@@ -1,12 +1,13 @@
 import React from 'react';
 import { Card, Col } from 'react-bootstrap';
 import useFirebase from '../../hooks/usefirebase';
+import Details from '../Details/Details';
 import './Choise.css'
 
 const Choise = (props) => {
-
+    
     return (
-        
+
         <div>
             <div>
             <Col>
