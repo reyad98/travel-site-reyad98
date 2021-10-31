@@ -14,8 +14,10 @@ import Large from './Components/Large/Large';
 import Login from './Components/Login/Login';
 import Register from './Components/Register/Register';
 import Authprovider from './Context/Authprovider';
-import PrivateRoute from './Components/PrivateRoute/PrivateRoute';
-import Details from './Components/Details/Details';
+import Myorders from './Components/Myorders/Myorders';
+import Manageall from './Components/ManageallOrder/Manageall';
+import AddServices from './Components/AddServices/AddServices';
+import MyorderHistory from './Components/MyorderHistory/MyorderHistory';
 function App() {
   return (
     <div className="App bgm">
@@ -30,16 +32,26 @@ function App() {
             <Route path="/home">
               <Large></Large>
               <Services></Services>
+              <Discover></Discover>
+              <About></About>
             </Route>
 
-            <PrivateRoute  path="/details">
-            <Details></Details>
-            </PrivateRoute>
+            <Route path="/myorders/:serviceId">
+             <Myorders></Myorders>
+            </Route>
 
-            {/* <PrivateRoute path="/singledetails" >
-              <Services></Services>
-            </PrivateRoute>
-       */}
+            <Route path="/myhistory">
+              <MyorderHistory></MyorderHistory>
+            </Route>
+
+            <Route path="/manage-all-orders">
+            <Manageall></Manageall>
+            </Route>
+
+            <Route path="/addservice">
+              <AddServices></AddServices>
+            </Route>
+           
             <Route path="/login">
               <Login></Login>
             </Route>

@@ -8,11 +8,11 @@
     color: white;
 }
 .buttn:hover{
-    background-color: #31acdd;
+    background-color: #1c0950;
     transition: 0.5s;
 }
 .crdcol{
-    background-color: rgb(22, 21, 21);
-    color: white;
+    background-color: #fcd8e1;
+    color: #1c0950;
 }
 

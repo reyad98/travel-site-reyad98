@@ -7,7 +7,7 @@ const Login = () => {
     const {signInusingGoogle} = useFirebase();
     return (
         <div>
-            <div className="login-form">
+            <div className="login-form text-white">
             <h2>Login</h2>
              <form onSubmit="">
              <input className="email" type="email" name="" id="" placeholder="Your Eamil" />
@@ -16,13 +16,13 @@ const Login = () => {
              <br />
              <input className="submit" type="submit" value="Submit" />
              </form>
-             <p>New User <Link to="/register">Create Account</Link></p>
-             <div>
-                 Or Google sign in
+             
+             <div className="text-white">
+                 Google sign in
              </div>
              <button 
              onClick={signInusingGoogle}
-             className="google-btn">Google Sign in</button>
+             className="google-btn ">Google Sign in</button>
             </div>
         </div>
     );

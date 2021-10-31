@@ -12,9 +12,10 @@ const Header = () => {
             <nav>
                 <a href="/home">Home</a>
                 {/* <a href="/services">Services</a> */}
-                <a href="/about">About us</a>
-                <a href="/discover">Discover</a>
-                <a href="/details">Details</a>
+                {/* <a href="/myorders">My Orders</a> */}
+                <a href="/myhistory">My Orders History</a>
+                <a href="/manage-all-orders">Manage All Orders</a>
+                <a href="/addservice">Add Service</a>
                 
 
                 <span style={{color:'white'}} >{user.displayName}</span>
@@ -23,6 +24,7 @@ const Header = () => {
                    
                    <button className="logout" onClick={logOut}>Log out</button>
                    :
+                      
                       <a href="/login">Login</a>
                    // <NavLink to="/login">Login</NavLink>
                }

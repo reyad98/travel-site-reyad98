@@ -8,15 +8,13 @@ const Mypart = (props) => {
         <div>
            
             <div>
-            <Card className="bg-color">
+            <Card className="bg-color text-black">
                 <Card.Img src={img} alt="Card image" />
                 <Card.ImgOverlay>
-                <h1>Happy Doc Time</h1>
+                <h1>Happy Journey With Us</h1>
                     <Card.Title>{name}</Card.Title>
                     <h5>
-                   Our services is a term that refers to medical and surgical services and the supporting laboratories, equipment and personnel that make up the medical and surgical mission .
-                   Hospital services make up the core of a hospital's offerings. They are often shaped by the needs or wishes of its major users to make the hospital a one-stop or core institution of its local commun ity or medical network. Hospitals are institutions comprising basic services and personnel—usually departments of medicine and surgery—that administer clinical and other services for specific diseases and conditions, as well as emergency services.
-
+                    Travel is the movement of people between distant geographical locations. Travel can be done by foot, bicycle, automobile, train, boat, bus, airplane, ship or other means, with or without luggage, and can be one way or round trip.[1] Travel can also include relatively short stays between successive movements, as in the case of tourism.
                     </h5>
                 </Card.ImgOverlay>
             </Card>
